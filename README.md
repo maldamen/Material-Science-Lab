@@ -14,3 +14,6 @@ I’m currently working on this code to have an automatic way of obtaining the I
 this will help each of students and researchers to avoid misprinted mistakes and time consuming in determining the peaks in a precise way.
 the code still in its initial stage and many mathematical, chemical as well as spectroscopic terminologies and keywords to be added. 
 I have been able to fit the peaks and separate them and I tried to fit them using a simple gaussian curve fitting. 
+
+
+![Image of Yaktocat] https://ibb.co/zx2NWvQ
