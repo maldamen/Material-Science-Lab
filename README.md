@@ -1,3 +1,4 @@
+![Presentation1](https://user-images.githubusercontent.com/46010487/136303113-22913109-9eb0-48c9-8b38-bd199b0a4968.jpg)
 ### Hi there 👋
 
 <!--
@@ -16,4 +17,4 @@ the code still in its initial stage and many mathematical, chemical as well as s
 I have been able to fit the peaks and separate them and I tried to fit them using a simple gaussian curve fitting. 
 
 
-![Image of Yaktocat] https://ibb.co/zx2NWvQ
+![Presentation1](https://user-images.githubusercontent.com/46010487/136303126-f4a9bc9a-3e1e-48a4-911f-d8399ba964ad.jpg)
