@@ -16,4 +16,4 @@ the code still in its initial stage and many mathematical, chemical as well as s
 I have been able to fit the peaks and separate them and I tried to fit them using a simple gaussian curve fitting. 
 
 
-![Image of Yaktocat] https://ibb.co/zx2NWvQ
+!(https://ibb.co/zx2NWvQ)
